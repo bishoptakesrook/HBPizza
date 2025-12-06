@@ -118,6 +118,6 @@ This phase simulates real-world data volatility — broken pipelines, inconsiste
 ## Author
 
 **Jeremy Bishop**  
-Aspiring Data Engineer / Analyst  
+Entreprenuer 
 Focused on building impactful, interview-ready analytics solutions under real-world constraints.
 
