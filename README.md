@@ -111,8 +111,8 @@ This phase simulates real-world data volatility — broken pipelines, inconsiste
 
 ## Repositories
 
-- [GitHub – HB Pizza Analytics](https://github.com/jkbishop8/hbpizza)
-
+- [GitHub – HB Pizza Analytics](https://github.com/bishoptakesrook/hbpizza)
+https://github.com/bishoptakesrook/scripting-databases
 ---
 
 ## Author
