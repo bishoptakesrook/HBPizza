@@ -39,7 +39,6 @@ The goal is to demonstrate technical depth, business storytelling, and adaptabil
   - `Average Order Value`
   - `Wings Mix`
   - `Avg Sentiment`
-
 ---
 
 ## Reporting
@@ -79,7 +78,9 @@ The goal is to demonstrate technical depth, business storytelling, and adaptabil
 ## Author
 
 **Jeremy Bishop**  
-Entrepreneur — building interview-ready analytics solutions under 
+Data Explorer 
+
+Building interview-ready analytics solutions under 
 real-world constraints.
 
 ---
@@ -123,9 +124,4 @@ real-world constraints.
 - [Github - Academic DB Project](https://github.com/bishoptakesrook/scripting-databases)
 ---
 
-## Author
-
-**Jeremy Bishop**  
-Entreprenuer 
-Focused on building impactful, interview-ready analytics solutions under real-world constraints.
 
