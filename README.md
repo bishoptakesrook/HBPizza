@@ -6,40 +6,7 @@ This project simulates a full-stack data analytics pipeline for a fictitious piz
 
 The goal is to demonstrate technical depth, business storytelling, and adaptability in building scalable analytics solutions.
 
-🧭 Cloud-to-Local Conversion Roadmap
-
-Avoiding free provisioning expirations while preserving the medallion architecture
-
-[ ] **Forge the Local Database** 
-     
-     Use Python scripts to autogenerate SQL DBA logic — not just for function, but for fun.
-
-[ ] **Extract the Bronze** 
-     
-     Generate CSVs from SQL views to serve as raw data resources for local ingestion.
-
-[ ] **Refine the Silver** 
-     
-     Handle transformations in Power BI using MQuery. Enhance time intelligence and prep for storytelling.
-
-[ ] **Wrangle the Chaos** 
-     
-     Apply EDA to uncover patterns, then flex ExDA to document insights with clarity and impact.
-
-[ ] **Scout the Data Lake** 
-     
-     Research free or cost-effective cloud lake options tailored for portfolio builders.
-
-[ ] **Rebuild the Cloud Castle** 
-     
-     Repeat the above processes in the cloud once a sustainable, long-term platform is secured.
-
-
-
-This phase simulates real-world data volatility — broken pipelines, inconsistent formats, and unpredictable correlations. The goal: demonstrate resilience, adaptability, and storytelling through data.
-
 ---
-
 ## Architecture
 
 ### 🥉 Bronze Layer – Raw Ingestion
@@ -98,6 +65,47 @@ This phase simulates real-world data volatility — broken pipelines, inconsiste
 | Limited Dataflow Gen1 connectors | Published `.pbix` to activate workspace and unlock gateway |
 | No Power BI Pro license | Used “Upload” feature in Power BI Service |
 | Large `.pbix` files not Git-friendly | Used `.pbit` templates and changelog discipline |
+
+---
+
+---
+
+## Related Projects
+
+- [Academic DB Project — PostgreSQL ETL Pipeline](https://github.com/bishoptakesrook/scripting-databases)
+
+---
+
+## Author
+
+**Jeremy Bishop**  
+Entrepreneur — building interview-ready analytics solutions under 
+real-world constraints.
+
+---
+
+<details>
+<summary>📋 Project Wish List</summary>
+
+<br>
+
+**Cloud-to-Local Conversion Roadmap**  
+*Avoiding free provisioning expirations while preserving the medallion architecture*
+
+- [ ] **Forge the Local Database** — Use Python scripts to autogenerate 
+  SQL DBA logic — not just for function, but for fun.
+- [ ] **Extract the Bronze** — Generate CSVs from SQL views to serve as 
+  raw data resources for local ingestion.
+- [ ] **Refine the Silver** — Handle transformations in Power BI using 
+  MQuery. Enhance time intelligence and prep for storytelling.
+- [ ] **Wrangle the Chaos** — Apply EDA to uncover patterns, then flex 
+  ExDA to document insights with clarity and impact.
+- [ ] **Scout the Data Lake** — Research free or cost-effective cloud lake 
+  options tailored for portfolio builders.
+- [ ] **Rebuild the Cloud Castle** — Repeat the above processes in the 
+  cloud once a sustainable, long-term platform is secured.
+
+</details>
 
 ---
 
